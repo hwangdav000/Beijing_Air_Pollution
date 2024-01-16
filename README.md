@@ -9,11 +9,11 @@ of the models below
 
 [LSTM](LSTM.ipynb) 
 </br>
-[Bi-LSTM](BiLSTM.ipynb)  
+[Bi-LSTM](BiLSTM.ipynb)
 </br>
 [Transformers](Transformer.ipynb)  
 </br>
-[Wide Transformers](WideTransformer.ipynb)  
+[Wide Transformers](WideTransformer.ipynb)
 
 There are multiple stations that reported PM2.5 which we excluded some moutainous stations.
 
